@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal0786&label=Profile%20views&color=0e75b6&style=flat" alt="sujal0786" /> </p>
 
-<p align="left"> <a href="https://twitter.com/evil_mind" target="blank"><img src="https://img.shields.io/twitter/follow/evil_mind?logo=twitter&style=for-the-badge" alt="evil_mind" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SUJALAr04697477" target="blank"><img src="https://img.shields.io/twitter/follow/evil_mind?logo=twitter&style=for-the-badge" alt="evil_mind" /></a> </p>
 
 - 🔭 I’m currently working on **Backened Projects**
 
