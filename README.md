@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Backened Projects**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java 🍵**
 
 - 💬 Ask me about **Frontend (HTML ,CSS ,Java Script ,etc ..)**
 
