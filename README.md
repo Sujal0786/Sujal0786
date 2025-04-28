@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sujal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-Stack developer from India</h3>
 <img  align = "right" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*gqO3slLmGb4mUeje.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal0786&label=Profile%20views&color=0e75b6&style=flat" alt="sujal0786" /> </p>
 
 <p align="left"> <a href="https://twitter.com/SUJALAr04697477" target="blank"><img src="https://img.shields.io/twitter/follow/evil_mind?logo=twitter&style=for-the-badge" alt="evil_mind" /></a> </p>
 
-- 🔭 I’m currently working on **Backened Projects**
+- 🔭 Building **Backened Projects**
 
-- 🌱 I’m currently learning **Java 🍵**
+- 🌱 Currently gaining hands-on experience with **Java 🍵**
 
 - 💬 Ask me about **Frontend (HTML ,CSS ,Java Script ,etc ..)**
 
