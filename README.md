@@ -10,7 +10,7 @@
 
 - 🌱 Currently gaining hands-on experience with **Java 🍵**
 
-- 💬 Ask me about **Frontend (HTML ,CSS ,Java Script ,etc ..)**
+- 💬 Ask me about **Frontend **
 
 - 📫 How to reach me **Sujal6067@gmail.com**
 
